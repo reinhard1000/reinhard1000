@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reinhard1000
-- 👀 I’m interested in computer networking
+- 👀 I’m interested in Development & DevOps
 - 🌱 I’m currently learning socket programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
